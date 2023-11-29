@@ -1,0 +1,25 @@
+.Header{
+    background-color: #1f2937;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header-links,
+.hero-subtext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero-text{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.header-image{
+    color: #e5e7eb;
+    background-color: grey;
+}
