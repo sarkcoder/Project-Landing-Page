@@ -50,7 +50,10 @@
     flex: 1;
     align-items: center;
     justify-content: center;
-    padding: 200px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 
 }
 
@@ -109,6 +112,14 @@ blockquote{
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
+}
+
+.quote figcaption{
+    font-weight: 500;
+    font-size: 22px;
+    padding-left: 60%;
+    padding-bottom: 50px;
+    margin-top: 0;
 }
 
 /* Call to action section */
